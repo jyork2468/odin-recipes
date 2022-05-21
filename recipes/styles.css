@@ -1,4 +1,11 @@
+/*This css file will apply to all individual recipe pages in the same directory*/
+
 body {
     background-color: bisque;
     color: black;
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
