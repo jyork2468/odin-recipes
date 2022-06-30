@@ -5,3 +5,7 @@ body {
     color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+* {
+    border: 2px solid red;
+}
